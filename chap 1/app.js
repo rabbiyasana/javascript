@@ -1,6 +1,0 @@
-alert("Welcome! to our law firm we are here to serve you. we provide Best and you deserve best we r availabvle 24/7 for youi thankyoy!")
-alert("Error! please enter a valid password")
-alert("welcome to js land... \n happy coding!")
-alert("welcome to js land... ")
-alert("happy coding!")
-alert("hello... i can run js through my web browser console")
