@@ -2,55 +2,54 @@
 
 // question no 1
 alert("Welcome! to our law firm we are here to serve you. we provide Best and you deserve best we r availabvle 24/7 for youi thankyoy!");
-
-// // question no 2
+ // question no 2
 alert("Error! please enter a valid password");
 
-// // question no 3
+ // question no 3
 alert("welcome to js land... \n happy coding!");
-
-// // wuestion no 4
+// wuestion no 4
 alert("welcome to js land... ");
 alert("happy coding!");
 
-// // questin no 5
+ // questin no 5
+
 alert("hello... i can run js through my web browser console");
 
-// // chapter no 2
+ // chapter no 2
 
 
-// // question no 1
+ // question no 1
 
 var username="my first variable";
 alert(username);
 
-// // question no 2
+ // question no 2
 var myName= "Rabia sana";
 document.write(myName);
 
-// // question no 3
+ // question no 3
 
 var message="Hello world";
 alert(message);
 
-// // question no 4
+ // question no 4
 
 alert("john Deo") ;
 alert("15 years old"); 
 alert("certified mobile application development") ;
 
-// // question no 5
+ // question no 5
 
 
 var txt = "pizza\n pizz\n piz\n pi\n p";         
 
 
-// // question no 6
+ // question no 6
 
 var email="rabbiasana55@gmail.com";
         alert("My email address is " + email);
 
-// //  questionn no 7
+ //  questionn no 7
 
 var book= "A smarter way to learn JavaScript";
 alert("I am trying to learn from the book " + book);
@@ -59,36 +58,36 @@ alert("I am trying to learn from the book " + book);
 
 document.write("Yah! i can write HTML content thrrough javascript");
 
-// // question  no 9
+ // question  no 9
 
 var st="“▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬” ";
 alert(st);
 
 
-// // chapter no 3
+ // chapter no 3
 
-// // question no 1
+ // question no 1
 
 var BirthYear= 1999;
 alert("my birth year is "+BirthYear +"the dat type of my declared variable is Number" );
 
-// // question no 2
+ // question no 2
 
 var n= 14;
 alert("you visited this site " + n + " times");
 
-// // question no 3
+ // question no 3
 var age = 20;
 alert("i am " + age+ " years old");
 
 
-// // question no 4
+ // question no 4
 
 var BirthYear= 1999;
 document.write("my birth year is "+BirthYear );
 document.write(" <br>the data type of my declared variable is number");
 
-// // question no 5
+ // question no 5
 
 var VistorName ="john";
 var ProductTitle="senitizer";
